@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EvanLowther
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me evanlowther12@gmail.com
 - ⚡ Fun fact: I am a surfer
 
