@@ -1,5 +1,5 @@
 # About Me:
-Computer Science Student at the University of Florida<br>Passionate about systems programming, algorithms, and building scalable applications<br>I enjoy learning how to solve complex problems<br>Currently developing my second large scale game project<br>
+Computer Science Student at the University of Florida<br>Passionate about systems programming, algorithms, and building scalable applications<br>I enjoy learning how to solve complex problems<br>Currently working on SWE Principles<br>
 
 
 ## Socials:
